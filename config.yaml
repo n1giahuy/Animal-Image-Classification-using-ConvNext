@@ -1,0 +1,10 @@
+train-root: "./train"
+test-root: "./test"
+epochs: 50
+batch-size: 320
+image-size: 224
+learning-rate: 0.001
+num-classes: 10
+logging-dir: "runs"
+model-save-dir: "trained-models"
+
