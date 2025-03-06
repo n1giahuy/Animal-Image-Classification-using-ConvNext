@@ -1,4 +1,4 @@
-# Animal-Image-Classification-using-ConvNext
+# Animal Image Classification using ConvNext
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/310241/screenshots/10620235/_________-______1-dribbble.gif" width="600" height="300" alt="Project Introduction">
