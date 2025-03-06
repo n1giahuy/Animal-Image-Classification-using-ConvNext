@@ -11,4 +11,4 @@ This implementation uses transfer learning with the ConvNeXt model, a modern CNN
 For this project, I used the data available on [Kaggle](https://www.kaggle.com/datasets/alessiocorrado99/animals10) .It contains about 28K medium quality animal images belonging to 10 categories: dog, cat, horse, spider, butterfly, chicken, sheep, cow, squirrel, and elephant.
 
 ## Trained Model
-You can download the best trained model from [here](https://drive.google.com/drive/u/1/folders/10_HcQGuVygDJ55h9K5776lkalL4gJTiU) Run it with mode_size="base". 
+You can download the best trained model from [here](https://drive.google.com/drive/u/1/folders/10_HcQGuVygDJ55h9K5776lkalL4gJTiU). Run it with mode_size="base". 
